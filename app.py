@@ -11,7 +11,6 @@ st.markdown("""
     background-color: #ffffff;
 }
 
-/* Center container like iPhone */
 .block-container {
     
     margin: auto;
